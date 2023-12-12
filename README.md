@@ -40,7 +40,7 @@ Education costs prediction model for savings for college (contingent on interest
 
 ## Project Intent:
 Time-Series Forecasting for Food Prices
-Create a model that predicts food prices based on historical data. Use time-series analysis and explore techniques. Customer Segmentation and Market Analysis to segment customers based on their behaviors and demographics. Use clustering algorithms like K-Means to group similar customers and offer insights into targeted marketing strategies.
+Create a model that predicts food prices based on historical data. Use time-series analysis and explore techniques. Major city Segmentation and Market Analysis to segment cities. Use clustering algorithms like K-Means to group similar cities and offer insights into targeted marketing strategies.
 
 ## Benchmarking - FDA / USDA 5% prediction (all food prices)
 https://www.ers.usda.gov/amber-waves/2023/february/ers-refines-forecasting-methods-in-food-price-outlook/
@@ -53,8 +53,12 @@ Data analysis - Pandas
 Web crawl - Beautiful Soup
 Building the ML model - SKlearn
 Testing - SKlearn
+Offer insights to the data
+    What is the predicted CPI
+    What is the growth rate of food prices based on city
+
+
 Creating documentation - Jupyter Notebook
-Creating the presentation - Tableau
 
 ## Data sources:
 https://beta.bls.gov/dataQuery/find?fq=survey:[ap]&s=popularity:D
