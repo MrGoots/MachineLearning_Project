@@ -73,3 +73,17 @@ Creating documentation - Jupyter Notebook
 https://beta.bls.gov/dataQuery/find?fq=survey:[ap]&s=popularity:D
 https://www.usinflationcalculator.com/inflation/egg-prices-adjusted-for-inflation/#google_vignette
 https://fred.stlouisfed.org/release/tables?rid=10&eid=34561#snid=34568
+
+## Final Analysis:
+
+The results are - through the data manipulation modeling and testing, we see a forecast of CPI through 2040 (linearMain) Despite a large spike in CPI, the linear regression model still shows a steady increase, rather than an overall dramatic change. This means we can expect an increase in inflation over the next several years as well. Generally, the Federal Reserve targets for a yearly 2% inflation increase to maintain maximum employment levels and price stability, but we have seen this rate surpass this goal. During 2020-2022, our models show an increase in CPI, which are due to unexpected world events such as COVID-19, the war in Ukraine, and even smaller events such as the avian flu. Our findings correlate with the whitehouse.gov statistics that show grocery inflation is improving, however it is still high in comparison to pre-pandemic levels. The increase has left many individuals and families financially strained. Additionally, wage growth for many of us failed to increase to combat the increasing CPI. Earlier this year, we finally began to see the gap between inflation rates versus wage growth tighten, but it is not expected to close until late 2024. Unfortunately, there are still too many unpredictable factors that could determine if we will feel relief in 2024. As it stands, we are still at a high risk for a recession. Our economy heavily relies on government policy change to combat inflation. However, there are small things we can try to do to brace ourselves.
+
+Review your budget
+Diversify your income (get a side-hustle)
+Pay down high-interest debt
+Consider using a cash back credit card to earn money while making regular purchases.
+Open a high-yield savings account
+Create a meal plan you can stick to.
+Batch errands (group errands to finish them in one trip, reduces commuting costs)
+Invest in TIPS (Treasury Inflation Protected Securities) – it’s like a bond to help protect against inflation.
+Get in contact with a financial advisor.
