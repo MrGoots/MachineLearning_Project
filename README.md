@@ -26,7 +26,7 @@ Dolly Low
 Kristen Beer
 David Jordan
 Mayra Terrazas
-Sean P.??
+
 
 ## Other Ideas:
 Where2Buy - price predictor, cheapest place to buy goods (consumer packaged goods - nondiscretion)
