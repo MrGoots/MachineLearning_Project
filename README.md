@@ -1,5 +1,4 @@
-https://github.com/MrGoots/Project_4_Group_2/blob/34c1856ad4aadebdca63cb404b7160fc3a2b0c90/Title_Img.png
-
+https://github.com/MrGoots/Project_4_Group_2/blob/main/Title_Img.png
 
 # Project_4_Group_2
 You will work with your group to solve, analyze, or visualize a problem using machine learning (ML) with the other technologies we’ve learned
