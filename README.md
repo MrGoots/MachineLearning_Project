@@ -1,7 +1,12 @@
 https://github.com/MrGoots/Project_4_Group_2/blob/main/Title_Img.png
 
 # Project_4_Group_2
-You will work with your group to solve, analyze, or visualize a problem using machine learning (ML) with the other technologies we’ve learned
+Our group decided to visualize the current state of the cost of living here in the US and make predictions for the future using a combination of machine learning and a variety of other technologies we’ve learned during this class including Python, Pandas, Matplotlib, and SQl Databases.
+ The metric which best represents this data is the Consumer Price Index, or CPI. The CPI is a metric that measures the average change over time in the prices paid by urban consumers for a market basket of consumer goods and services. In simpler terms, it helps us understand how the cost of living is changing for the average person.
+ We built a data set from multiple sources comprising thousands of records and developed a machine learning model that predicts CPI over time using clustering algorithms like K-Means to group similar cities and offer regional insights.
+Our data comes from The Bureau of Labor Statistics, a branch of the U.S. Department of Labor, which surveys thousands of households and businesses each month to collect data on prices. These prices cover a wide range of items, including food, clothing, rent, healthcare, and more. By comparing this data to a base period, the CPI is calculated and used to reflect the inflation or deflation in our economy.
+Our model shows the CPI exhibits a steady increase as demonstrated in our data beginning 1980 and continuing through 2040. Over the next seventeen years, our model predicts a continued steady increase in the Consumer Price Index. 
+
 
 ## Here are the specific requirements:
 Find a problem worth solving, analyzing, or visualizing.
